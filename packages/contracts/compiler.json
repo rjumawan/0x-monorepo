@@ -40,7 +40,7 @@
         "TestAssetProxyDispatcher",
         "TestLibBytes",
         "TestLibs",
-        "TestMixinExchangeCore",
+        "TestExchangeInternals",
         "TestSignatureValidator",
         "TestValidator",
         "TestWallet",
