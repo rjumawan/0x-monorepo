@@ -220,4 +220,5 @@ export enum RevertReason {
     FeeProportionTooLarge = 'FEE_PROPORTION_TOO_LARGE',
     ValueGreaterThanZero = 'VALUE_GREATER_THAN_ZERO',
     InvalidMsgValue = 'INVALID_MSG_VALUE',
+    Uint256Overflow = 'UINT256_OVERFLOW',
 }
