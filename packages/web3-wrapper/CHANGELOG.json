@@ -1,6 +1,6 @@
 [
     {
-        "version": "0.7.3",
+        "version": "0.8.0",
         "changes": [
             {
                 "note": "Export `marshaller` utility file.",
@@ -9,6 +9,10 @@
             {
                 "note": "Add `getNodeTypeAsync` method",
                 "pr": 812
+            },
+            {
+                "note": "Add `getTransactionByHashAsync` method",
+                "pr": 847
             }
         ]
     },
